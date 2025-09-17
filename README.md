@@ -1,14 +1,11 @@
 # REP-BACKEND
 ## Software
-Node.js, Git, Docker, Docker Compose, Postman, Docker Compass / TablePlus
-
-## Estructura Básica
-/src  
- ├─ controllers → peticiones  
- ├─ services → lógica de negocio  
- ├─ models → esquemas/ORM  
- ├─ routes → rutas API  
- └─ middlewares → validaciones y auth  
+Node.js, 
+Git, 
+Docker, 
+Docker Compose, 
+Postman, 
+Docker Compass / TablePlus
 
 ## Requerimientos
 1. **Catálogo:** CRUD de relojes, colecciones y variantes (material, correa, color, SKU).  
