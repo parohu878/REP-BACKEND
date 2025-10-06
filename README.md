@@ -23,3 +23,8 @@ Docker Compass / TablePlus
 - En Docker he instalado la imagen de mongo y la he puesto dentro.
 - Por ultimo he entrado a mongo y he creado la conexion con la base de datos.
   
+##FASE 2
+
+##FASE 3
+
+##FASE 4
